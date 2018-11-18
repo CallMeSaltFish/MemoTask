@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoTask", "Assembly-CSharp.csproj", "{EAD6665C-AB5D-531F-78C4-EA671A8F3638}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{EAD6665C-AB5D-531F-78C4-EA671A8F3638}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
